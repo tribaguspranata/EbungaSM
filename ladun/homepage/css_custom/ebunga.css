@@ -1,0 +1,67 @@
+.table-home-coverage-area {
+    padding-top: 11px;
+    font-family: Poppins;
+    font-weight: 350;
+    font-size: 14px;
+    color: black;
+}
+
+.ebunga-style-mt-10 {
+    margin-top:10px;
+}
+
+.ebunga-style-mt-20 {
+    margin-top:20px;
+}
+
+.ebunga-style-pt-10 {
+    padding-top:10px;
+}
+
+.btn-pilih-coverage {
+    display: inline-block;
+    font-family: Abril Fatface;
+    font-weight: 350;
+    font-size: 14px;
+    padding-left : 7px;
+    padding-right: 7px;
+    color: black;
+    background: black;
+    color: #fff;
+    transition: all .3s ease;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+.btn-pilih-coverage:hover {
+    text-decoration: none;
+}
+
+.search-box-coverage-area {
+    border-color: #e5e5e5;
+    box-shadow: none;
+    font-size: 16px;
+    font-family: "Poppins";
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    color: #888888;
+    padding: 9px 20px;
+    line-height: 1.625;
+    height: 47px;
+    display: block;
+    width: 100%;
+    font: 400 16px "Poppins";
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+@media screen and (max-width: 768px) {
+    #divVariantFoto {display: none;}
+}
+
+.contents-details{
+    font: 700 18px "Poppins";
+    color: #565656;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
